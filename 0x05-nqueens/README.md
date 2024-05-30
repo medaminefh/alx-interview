@@ -15,3 +15,6 @@ The N queens puzzle is the challenge of placing N non-attacking queens on an N×
 - - You don’t have to print the solutions in a specific order
 
 You are only allowed to import the sys module
+
+![Chess grandmaster Judit Polgár, the strongest female chess player of all time](https://www.crestbook.com/files/Judit-photo1_602x433.jpg)
+<em>Chess grandmaster <a href="https://en.wikipedia.org/wiki/Judit_Polg%C3%A1r" target="_blank">Judit Polgár</a>, the strongest female chess player of all time</em>
